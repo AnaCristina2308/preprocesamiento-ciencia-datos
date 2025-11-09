@@ -1,0 +1,6 @@
+# Nos ayuda para ignorar los archivos innecesarios
+__pycache__/
+*.pyc
+.vscode/
+.env
+.ipynb_checkpoints/
