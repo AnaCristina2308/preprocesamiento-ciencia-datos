@@ -1,46 +1,20 @@
-\# Proyecto: Preprocesamiento de Ciencia de Datos
-
-
-
-Este proyecto tiene como objetivo implementar un flujo completo de preprocesamiento de datos utilizando Python, Git y GitHub. Además, aplica buenas prácticas de control de versiones, manejo de ramas y documentación.
-
-
-
----
-
-
-
-\##  Objetivo del Proyecto
-
-\- Aplicar técnicas de preprocesamiento sobre un dataset (limpieza, transformación, selección de variables, etc.).
-
-\- Trabajar colaborativamente usando Git y GitHub.
-
-\- Gestionar ramas, commits y pull requests.
-
-\- Elaborar documentación técnica del proyecto.
-
-
-
----
-
-
+\# Proyecto: Preprocesamiento 
+Objetivo. el presente proyecto tiene como objetivo utilizar las herrramientas Git y Git Hub para crear un repositorio en el que posteriormente se utilicen herramientas para el procesamiento de datos como Python. De esta manaera logramos tener buenas un control en las versiones y en las ramas, asi tamien logramos tener una buena documentacion.
 
 \##  Estructura de Carpetas
-
+C:
 preprocesamiento-ciencia-datos/
 
-├─ data/ # Datos originales y procesados
+─ data/ # Los datos con los que se van a trabajar
 
-├─ notebooks/ # Exploración y análisis preliminar
+─ notebooks/ # En Python para el analisis 
+─ src/
 
-├─ src/
+  ─ preprocesamiento/ #Aqui van las funciones que se van a aplicar en el preprocesamiento
 
-│ └─ preprocessing/ # Scripts de funciones de preprocesamiento
+─ reports/ # Aqui pondremos los informes y los resultados que vayamos consiguiendo
 
-├─ reports/ # Informes y resultados
+─ DOCUMENTACION.md # Es el documento en el que esta el infrome de lo que hemos hecho
 
-├─ DOCUMENTACION.md # Documentación final del proyecto
-
-└─ README.md # Este archivo
+─ README.md # Este archivo que nos sirve para tener un mejor panorama
 
